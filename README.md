@@ -4,14 +4,84 @@
 
 </div>
 
-# 👋 Hi, I'm your-username!
+# 👋 Hi, I'm your Thomas Donley!
 
 ## 🌟 About Me
 
+I'm Thomas Donley, an aspiring computational astrophysicist, software developer and technology enthusiast. I'm passionate about astrophysics, cosmology, mathematics, computer science and artificial intelligence. I independently explore scientific concepts, develop software projects through TCA Inc. and work towards my long-term ambition of earning a PhD and contributing to scientific research. Outside technology and science, I'm involved in rugby league. My motto is **Studium Sapientiae — The Pursuit of Wisdom.**
 
 ## 🛠️ Tech Stack
 
-## 📊 GitHub Stats
+## Tech Stack & Technical Interests
+
+I'm a self-driven developer interested in software engineering, artificial intelligence, web development, computational systems and emerging technologies. I enjoy experimenting with different programming languages, frameworks and development environments to build practical applications and explore new ideas.
+
+### Programming Languages
+- Python — scripting, automation, computational projects and AI experimentation.
+- JavaScript — interactive applications and web development.
+- HTML5 — website structure and application interfaces.
+- CSS3 — responsive layouts, styling and frontend design.
+
+### Web Development
+- HTML, CSS and JavaScript.
+- Responsive web design.
+- Multi-page website development.
+- Interactive user interfaces.
+- Frontend application development.
+- Web application architecture.
+
+### Backend & Databases
+- Firebase — authentication, application infrastructure and data management.
+- Supabase — backend services and database experimentation.
+- REST API integration and application connectivity.
+
+### Artificial Intelligence
+- AI-powered application development.
+- Large Language Model (LLM) integration.
+- OCR (Optical Character Recognition).
+- AI-assisted text summarisation.
+- Autonomous agent concepts.
+- AI-assisted development workflows.
+- Computational problem-solving.
+
+### Development Tools & Environments
+- GitHub — version control and project management.
+- Visual Studio Code.
+- Cursor — AI-assisted coding.
+- Codex — AI-assisted software engineering.
+- Claude — AI-assisted development and problem-solving.
+- Lovable — rapid application prototyping.
+- Android Studio — Android application development.
+
+### Mobile Development
+- Android application development.
+- Web-to-mobile application conversion.
+- Mobile-first interface design.
+- Authentication and application integration.
+
+### Engineering & Emerging Technologies
+- Computational astrophysics.
+- Scientific computing.
+- Electronics experimentation.
+- CAD and 3D design.
+- Hardware prototyping.
+- Nanotechnology research interests.
+
+### Current Areas of Learning
+I'm continuously developing my knowledge of:
+- Advanced Python programming.
+- Data structures and algorithms.
+- Machine learning.
+- Artificial intelligence architecture.
+- Mathematics for computational science.
+- Scientific simulation and numerical methods.
+- Software engineering principles.
+
+**My development philosophy:** Learn continuously, experiment independently, build practically and understand the science behind the technology.
+
+*Studium Sapientiae — The Pursuit of Wisdom.*
+
+
 
 <div align="center">
 
